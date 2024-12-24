@@ -28,7 +28,7 @@ Este projeto é uma aplicação Laravel que simula uma rede social básica, perm
 
 ### 1. Clone o Repositório
 ```bash
-git clone https://github.com/GabrielViniciusLCM/rede-social-laravel.git
+git clone https://github.com/GabrielViniciusLCM/Rede-Social.git
 cd rede-social-laravel
 ```
 
